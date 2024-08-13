@@ -5,9 +5,9 @@ const Facebook = () => {
     <div>
       <h3>Bem vindo ao Facebook!!!</h3>
 
-      <div>
+      
       <h5>Olá Eduardo</h5>
-      </div>
+      <p>No Copyrights</p>
     </div>
   )
 }
