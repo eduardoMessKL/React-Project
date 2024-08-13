@@ -1,10 +1,11 @@
 import React from 'react'
-import Instagram from './components/Instagram'
 
 const App = () => {
   return (
     <div>
-      <Instagram/>
+      <header className='bg-red-400'>
+        <h1>Bem vindo ao meu site!</h1>
+      </header>
     </div>
   )
 }
