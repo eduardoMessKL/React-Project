@@ -4,6 +4,7 @@ const Instagram = () => {
   return (
     <div>
       <h1>Instagram</h1>
+      <h3>Bem vindo ao Instagram!!!</h3>
     </div>
   )
 }
